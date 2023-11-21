@@ -1,2 +1,2 @@
 # Connect-Database-with-PHP
-Data entry and show data from database with PHP dynamically.
+Data entry from database and show data with PHP dynamically.
